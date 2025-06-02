@@ -102,7 +102,7 @@ infect_audio/
 
 ## 📜 License
 
-This project is licensed under the MIT License - see the `LICENSE` file for details (if one were present - for now, assume MIT).
+This project is licensed under the MIT License.
 
 ---
 Happy experimenting! 🔬
